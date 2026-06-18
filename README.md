@@ -1,10 +1,17 @@
+<div align="center">
+
 # Hi, I'm Adarsh Kumar 👋
 
-Crafting Seamless Experiences with Code & Creativity
+**Crafting Seamless Experiences with Code & Creativity**
 
-[Portfolio](https://adsingh-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adarsh-kumar62041/) · [Instagram](https://www.instagram.com/adsingh9.1/) · [X](https://twitter.com/@Adarshsingh1a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adsingh-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar62041/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adsingh9.1/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@Adarshsingh1a)
 
 ---
+
+</div>
 
 ## About
 
