@@ -2,21 +2,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Adarsh%20Kumar&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
+<h1 align="center">
+Hi 👋 I'm Adarsh Kumar
+</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack • JavaScript • Building Scalable Web Applications
+Full Stack Developer • MERN Stack • Backend Enthusiast • Building Scalable Web Applications
 </h3>
 
 <p align="center">
-Passionate about building modern, scalable and user-friendly applications that solve real-world problems.
+I enjoy building scalable, high-performance web applications with clean architecture, secure authentication, and real-time communication.
 </p>
-
----
 
 <p align="center">
 
-<a href="https://adsingh-portfolio.vercel.app/" target="_blank">
+<a href="https://adsingh-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -24,16 +24,12 @@ Passionate about building modern, scalable and user-friendly applications that s
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/adarsh-kumar62041/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/adarsh-kumar62041/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://x.com/Adarshsingh1a" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/adsingh9.1/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://x.com/Adarshsingh1a">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
 </p>
@@ -44,21 +40,21 @@ Passionate about building modern, scalable and user-friendly applications that s
 
 💻 Full Stack Developer specializing in the MERN Stack.
 
-🚀 Passionate about developing scalable web applications with clean architecture and intuitive user experiences.
+🚀 Passionate about developing scalable applications with modern technologies and clean architecture.
 
-🎯 Currently improving my knowledge of
+🌱 Currently learning
 
+- Advanced Backend Development
 - System Design
 - Docker
 - Kubernetes
-- Cloud Computing
-- Performance Optimization
+- AWS Cloud
 
-💼 Open to
+💼 Looking for
 
 - Software Engineer Roles
-- Full Stack Developer Roles
 - Backend Developer Roles
+- Full Stack Developer Roles
 
 📍 Delhi, India
 
@@ -69,13 +65,13 @@ Passionate about building modern, scalable and user-friendly applications that s
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
 </p>
 
 ### Backend
@@ -87,29 +83,111 @@ Passionate about building modern, scalable and user-friendly applications that s
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,npm,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel"/>
 </p>
+
+---
+
+# 🚀 What I Build
+
+✔ Full Stack Web Applications
+
+✔ REST APIs
+
+✔ Real-Time Applications
+
+✔ Authentication Systems
+
+✔ AI Powered Applications
+
+✔ MVC Architecture
+
+✔ Secure Backend Systems
+
+✔ Responsive Frontend Applications
+
+---
+
+# 💼 Experience
+
+## Frontend Web Development Intern
+
+**AKM TECHIE**
+
+**June 2025 – July 2025**
+
+• Developed responsive multi-page business websites.
+
+• Designed reusable UI components.
+
+• Built Admin Dashboard and Client Portal.
+
+• Improved responsiveness across multiple devices.
 
 ---
 
 # 🚀 Featured Projects
 
+## 🤖 AI Interview Preparation Platform
+
+A production-ready AI-powered interview platform.
+
+### Features
+
+- Resume Upload
+- AI Interview Generation
+- AI Report Generation
+- JWT Authentication
+- Secure REST APIs
+- MVC Architecture
+- Puppeteer PDF Reports
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • JWT • AI APIs
+
+---
+
+## 🚖 Uber Backend System
+
+Backend architecture inspired by Uber.
+
+### Features
+
+- JWT Authentication
+- Captain Module
+- User Module
+- Ride Request Flow
+- Driver Assignment
+- OTP Ride Verification
+- Razorpay Payment Integration
+- Socket.IO Real-Time Communication
+
+**Tech Stack**
+
+Node.js • Express • MongoDB • Socket.IO • Razorpay
+
+---
+
 ## 💬 Real-Time Chat Application
 
-A production-ready chat application featuring
+A modern real-time chat platform.
+
+### Features
 
 - JWT Authentication
 - Socket.IO
 - Online Status
 - Typing Indicator
-- Message Timestamp
-- Responsive UI
+- Rate Limiting
+- MVC Architecture
+- Protected Routes
 
 **Tech Stack**
 
@@ -117,41 +195,15 @@ React • Node.js • Express • MongoDB • Socket.IO
 
 ---
 
-## 🤖 AI Interview Platform
+# 🏆 Achievements
 
-An AI-powered interview preparation platform.
+🏅 LeetCode Problem Solving Badge
 
-### Features
+💼 Successfully completed Frontend Development Internship
 
-- AI Mock Interviews
-- AI Feedback Reports
-- Authentication
-- Puppeteer PDF Generation
-- Dashboard
-- Secure Backend
+🚀 Built multiple production-ready MERN Stack projects
 
-**Tech Stack**
-
-React • Node.js • MongoDB • Puppeteer • AI APIs
-
----
-
-## 🚖 Uber Backend Clone
-
-Complete backend architecture for ride-booking application.
-
-### Features
-
-- JWT Authentication
-- Captain & User Modules
-- Ride Lifecycle
-- REST APIs
-- Socket.IO
-- MongoDB
-
-**Tech Stack**
-
-Node.js • Express • MongoDB • Socket.IO
+📚 Strong understanding of Data Structures & Algorithms
 
 ---
 
@@ -164,8 +216,6 @@ Node.js • Express • MongoDB • Socket.IO
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adshkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
@@ -185,49 +235,26 @@ Node.js • Express • MongoDB • Socket.IO
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 Current Focus
 
-<p align="center">
+🚀 Building Production-Ready MERN Applications
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adshkumar&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+📚 Learning System Design
 
-</p>
+☁ Exploring AWS & Cloud Computing
 
----
+🐳 Learning Docker & Kubernetes
 
-# 📚 Currently Learning
-
-- Advanced System Design
-- Docker
-- Kubernetes
-- AWS Cloud
-- Microservices
-- CI/CD
-- Redis
-- Web Performance
+🧠 Solving Data Structures & Algorithms
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Build Production-Level SaaS Applications
-
-✅ Master Backend Engineering
-
-✅ Learn Cloud Architecture
-
-✅ Contribute to Open Source
-
-✅ Solve 500+ DSA Problems
-
----
-
-# 📬 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:adarsh99733207@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/adarsh-kumar62041/">
@@ -238,8 +265,8 @@ Node.js • Express • MongoDB • Socket.IO
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://x.com/Adarshsingh1a">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+<a href="https://github.com/Adshkumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -248,7 +275,7 @@ Node.js • Express • MongoDB • Socket.IO
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Adshkumar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Adshkumar&label=Profile%20Views&style=for-the-badge"/>
 
 </p>
 
@@ -256,6 +283,6 @@ Node.js • Express • MongoDB • Socket.IO
 
 <h3 align="center">
 
-"Code. Learn. Build. Repeat."
+⭐ "Turning Ideas into Scalable Software."
 
 </h3>
