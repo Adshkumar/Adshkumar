@@ -1,74 +1,198 @@
-<div align="center">
+```md
+<h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 
-# Hi, I'm Adarsh Kumar 👋
+<h3 align="center">
+Full Stack Developer | MERN Stack | Building Scalable Web Applications
+</h3>
 
-**Crafting Seamless Experiences with Code & Creativity**
+<p align="center">
+Passionate about creating modern, scalable, and user-centric applications using JavaScript technologies.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adsingh-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar62041/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adsingh9.1/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@Adarshsingh1a)
+<p align="center">
+<a href="https://adsingh-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/adarsh-kumar62041/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## About
+<a href="https://twitter.com/Adarshsingh1a">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-- 🚀 Full-stack developer passionate about building modern web applications that solve real-world problems with elegant, user-centered design.
-- 💼 **2 Years of Experience** | **1 Professional Role** | Multiple Certifications
-- 🎯 Specializing in **React**, **Node.js**, and modern web technologies.
-- 📍 Based in Delhi, India
-
----
-
-## My Tech Stack
-
-| Category | Technologies |
-|---|---|
-| Frontend | React.js, HTML, CSS, JavaScript |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Authentication | JWT, Secure Authentication |
-| Real-time | Socket.IO |
-| Other | AI Integration, Puppeteer, REST APIs |
+</p>
 
 ---
 
-## Projects
+# 💫 About Me
 
-| Project | What it does |
-|---|---|
-| **CHAT APPLICATION** | Real-time chat with WebSocket, secure auth, typing indicators, user status, and message timestamps. |
-| **AI Interview Platform** | AI-powered mock interviews with feedback reports, secure auth, and Puppeteer-based PDF generation. |
-| **Uber Backend** | Full backend system with JWT auth, real-time driver-passenger coordination using Socket.IO, and MongoDB. |
+I'm a **Full Stack Developer** specializing in the **MERN Stack**, passionate about building high-performance web applications that solve real-world problems.
 
----
-
-## Currently
-
-- 🔭 Working on **Full Stack Web Applications**
-- 🌱 Learning **Advanced System Design & Cloud Technologies**
-- 💡 Looking to collaborate on **Innovative Web Projects**
-- ⚡ Fun fact: Always learning, always building — turning ideas into meaningful experiences.
+- 🚀 Building scalable full-stack applications
+- 💻 Strong foundation in JavaScript ecosystem
+- 🌱 Currently exploring **System Design, Cloud, Docker & Kubernetes**
+- 🤝 Open to Full Stack & Software Engineering opportunities
+- 📍 Delhi, India
 
 ---
 
-## GitHub Stats
+# 🚀 Tech Stack
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adshkumar&show_icons=true&theme=tokyonight)
+### Frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adshkumar&layout=compact&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,redux,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Authentication & APIs
+
+- JWT Authentication
+- REST APIs
+- Socket.IO
+- Puppeteer
+- AI Integration
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+</p>
 
 ---
 
-## Let's Connect
+# 📌 Featured Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adsingh-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar62041/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adsingh9.1/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Adarshsingh1a)
+## 💬 Real-Time Chat Application
+
+- Secure JWT Authentication
+- Socket.IO Real-Time Messaging
+- Online Status & Typing Indicator
+- Message Timestamp
+- Responsive UI
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Socket.IO
 
 ---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Adshkumar&label=Visitors&countColor=%23263759)
+## 🤖 AI Interview Platform
+
+AI-powered interview preparation platform featuring:
+
+- AI-generated interview questions
+- Personalized feedback
+- Authentication
+- PDF Report Generation
+- Responsive Dashboard
+
+**Tech Stack**
+
+React • Node.js • MongoDB • Puppeteer • AI APIs
+
+---
+
+## 🚖 Uber Backend Clone
+
+Backend architecture for ride-booking application.
+
+Features include:
+
+- JWT Authentication
+- Captain & User Modules
+- Socket.IO
+- Ride Lifecycle
+- MongoDB Database
+- REST APIs
+
+**Tech Stack**
+
+Node.js • Express • MongoDB • Socket.IO
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adshkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adshkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Adshkumar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adshkumar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🎯 Current Focus
+
+- Building production-ready MERN applications
+- Advanced Backend Development
+- System Design
+- Cloud Computing
+- Docker & Kubernetes
+- Performance Optimization
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://adsingh-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-kumar62041/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/Adarshsingh1a">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://www.instagram.com/adsingh9.1/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Adshkumar&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+</p>
+```
