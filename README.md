@@ -1,17 +1,15 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Adarsh%20Kumar&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Adarsh%20Kumar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20Developer&descAlignY=58"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Adarsh Kumar
-</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack • Backend Enthusiast • Building Scalable Web Applications
+Building scalable backend systems, real-time applications, and modern web experiences.
 </h3>
 
 <p align="center">
-I enjoy building scalable, high-performance web applications with clean architecture, secure authentication, and real-time communication.
+Passionate about designing clean architectures, secure APIs, and production-ready web applications using modern JavaScript technologies.
 </p>
 
 <p align="center">
@@ -36,99 +34,45 @@ I enjoy building scalable, high-performance web applications with clean architec
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-💻 Full Stack Developer specializing in the MERN Stack.
+I'm a **Full Stack Developer** specializing in the **MERN Stack**, with a strong interest in backend engineering and scalable application development.
 
-🚀 Passionate about developing scalable applications with modern technologies and clean architecture.
+I enjoy building secure, high-performance web applications with clean architecture, RESTful APIs, authentication systems, and real-time communication.
 
-🌱 Currently learning
+Currently, I'm expanding my expertise in **System Design, Docker, Kubernetes, and AWS** while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
 
-- Advanced Backend Development
-- System Design
-- Docker
-- Kubernetes
-- AWS Cloud
-
-💼 Looking for
-
-- Software Engineer Roles
-- Backend Developer Roles
-- Full Stack Developer Roles
-
-📍 Delhi, India
+- 💻 Full Stack Developer (MERN Stack)
+- 🚀 Passionate about scalable backend architecture
+- 🌱 Currently learning **System Design, Docker, Kubernetes & AWS**
+- 💼 Open to **Software Engineer**, **Backend Developer**, and **Full Stack Developer** roles
+- 📍 Delhi, India
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel"/>
-</p>
-
----
-
-# 🚀 What I Build
-
-✔ Full Stack Web Applications
-
-✔ REST APIs
-
-✔ Real-Time Applications
-
-✔ Authentication Systems
-
-✔ AI Powered Applications
-
-✔ MVC Architecture
-
-✔ Secure Backend Systems
-
-✔ Responsive Frontend Applications
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | C++, JavaScript, HTML5, CSS3 |
+| **Frontend** | React.js, Tailwind CSS, Vite |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Tools & Platforms** | Git, GitHub, Postman, VS Code, npm, Vercel |
 
 ---
 
 # 💼 Experience
 
-## Frontend Web Development Intern
-
-**AKM TECHIE**
+## Frontend Web Development Intern — AKM TECHIE
 
 **June 2025 – July 2025**
 
-• Developed responsive multi-page business websites.
-
-• Designed reusable UI components.
-
-• Built Admin Dashboard and Client Portal.
-
-• Improved responsiveness across multiple devices.
+- Developed responsive multi-page business websites.
+- Designed reusable UI components.
+- Built Admin Dashboard and Client Portal.
+- Improved responsiveness across multiple devices.
+- Collaborated on creating maintainable and scalable frontend architecture.
 
 ---
 
@@ -136,78 +80,97 @@ I enjoy building scalable, high-performance web applications with clean architec
 
 ## 🤖 AI Interview Preparation Platform
 
-A production-ready AI-powered interview platform.
+Production-ready AI-powered interview platform designed to simplify interview preparation using intelligent automation.
 
-### Features
+### Highlights
 
-- Resume Upload
 - AI Interview Generation
-- AI Report Generation
+- Resume Upload & Analysis
 - JWT Authentication
+- AI Report Generation
 - Secure REST APIs
 - MVC Architecture
 - Puppeteer PDF Reports
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • JWT • AI APIs
+`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `AI APIs`
 
 ---
 
 ## 🚖 Uber Backend System
 
-Backend architecture inspired by Uber.
+Backend architecture inspired by Uber with secure authentication, ride lifecycle management, payment integration, and real-time communication.
 
-### Features
+### Highlights
 
 - JWT Authentication
-- Captain Module
-- User Module
+- User & Captain Modules
 - Ride Request Flow
 - Driver Assignment
 - OTP Ride Verification
-- Razorpay Payment Integration
+- Razorpay Integration
 - Socket.IO Real-Time Communication
 
 **Tech Stack**
 
-Node.js • Express • MongoDB • Socket.IO • Razorpay
+`Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `Razorpay`
 
 ---
 
 ## 💬 Real-Time Chat Application
 
-A modern real-time chat platform.
+Modern real-time messaging platform built with scalable backend architecture and instant communication features.
 
-### Features
+### Highlights
 
 - JWT Authentication
 - Socket.IO
-- Online Status
-- Typing Indicator
-- Rate Limiting
-- MVC Architecture
+- Online Presence
+- Typing Indicators
 - Protected Routes
+- API Rate Limiting
+- MVC Architecture
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • Socket.IO
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO`
+
+---
+
+# 🎯 What I Build
+
+- Full Stack Web Applications
+- REST APIs
+- Authentication & Authorization Systems
+- AI-Powered Applications
+- Real-Time Applications
+- MVC Architecture
+- Scalable Backend Systems
+- Responsive Frontend Applications
 
 ---
 
 # 🏆 Achievements
 
-🏅 LeetCode Problem Solving Badge
-
-💼 Successfully completed Frontend Development Internship
-
-🚀 Built multiple production-ready MERN Stack projects
-
-📚 Strong understanding of Data Structures & Algorithms
+- 🏅 LeetCode Problem Solving Badge
+- 💼 Successfully completed Frontend Development Internship
+- 🚀 Built multiple production-ready MERN Stack projects
+- 📚 Strong understanding of Data Structures & Algorithms
 
 ---
 
-# 📈 GitHub Analytics
+# 🚀 Current Focus
+
+- Building production-ready MERN applications
+- Learning System Design
+- Exploring AWS Cloud
+- Working with Docker & Kubernetes
+- Strengthening Data Structures & Algorithms
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -225,31 +188,17 @@ React • Node.js • Express • MongoDB • Socket.IO
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adshkumar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adshkumar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
 ---
 
-# 🎯 Current Focus
-
-🚀 Building Production-Ready MERN Applications
-
-📚 Learning System Design
-
-☁ Exploring AWS & Cloud Computing
-
-🐳 Learning Docker & Kubernetes
-
-🧠 Solving Data Structures & Algorithms
-
----
-
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -261,7 +210,7 @@ React • Node.js • Express • MongoDB • Socket.IO
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://adsingh-portfolio.vercel.app/">
+<a href="https://adsingh-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -282,7 +231,5 @@ React • Node.js • Express • MongoDB • Socket.IO
 ---
 
 <h3 align="center">
-
-⭐ "Turning Ideas into Scalable Software."
-
+⭐ Turning Ideas into Scalable Software.
 </h3>
