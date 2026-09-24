@@ -25,15 +25,15 @@ Committed to first-principles systems thinking and distributed architecture, I s
 </p>
 
 <p align="left">
-I have built an <a href="https://adsingh-portfolio.vercel.app/">AI Interview Preparation Platform</a>, an AI-powered application designed to simplify interview preparation through intelligent interview generation, resume analysis, automated reporting, and secure authentication. The platform combines <strong>React, Node.js, Express, MongoDB, JWT, AI APIs, MVC architecture, and Puppeteer</strong> to create an end-to-end interview preparation workflow.
+I have built an <a href="https://adarsh-interviewai.vercel.app/">AI Interview Preparation Platform</a>, an AI-powered application designed to simplify interview preparation through intelligent interview generation, resume analysis, automated reporting, and secure authentication. The platform combines <strong>React, Node.js, Express, MongoDB, JWT, AI APIs, MVC architecture, and Puppeteer</strong> to create an end-to-end interview preparation workflow.
 </p>
 
 <p align="left">
-I also built an <a href="https://adsingh-portfolio.vercel.app/">Uber Backend System</a>, focusing on the backend architecture behind a ride-hailing workflow. It includes authentication, user and captain modules, ride requests, driver assignment, OTP-based ride verification, payment integration, and real-time communication using <strong>Socket.IO</strong>. The project gave me practical experience with asynchronous workflows, real-time events, state management, and backend service design.
+I also built an <a href="https://uber-psi-three.vercel.app/">Uber Backend System</a>, focusing on the backend architecture behind a ride-hailing workflow. It includes authentication, user and captain modules, ride requests, driver assignment, OTP-based ride verification, payment integration, and real-time communication using <strong>Socket.IO</strong>. The project gave me practical experience with asynchronous workflows, real-time events, state management, and backend service design.
 </p>
 
 <p align="left">
-Another project I built is a <a href="https://adsingh-portfolio.vercel.app/">Real-Time Chat Application</a>, designed around persistent WebSocket communication and real-time user interactions. It includes authentication, online presence, typing indicators, protected routes, API rate limiting, and a structured MVC backend using <strong>Node.js, Express, MongoDB, React, and Socket.IO</strong>.
+Another project I built is a <a href="https://chat-application-sable-rho.vercel.app/">Real-Time Chat Application</a>, designed around persistent WebSocket communication and real-time user interactions. It includes authentication, online presence, typing indicators, protected routes, API rate limiting, and a structured MVC backend using <strong>Node.js, Express, MongoDB, React, and Socket.IO</strong>.
 </p>
 
 <p align="left">
