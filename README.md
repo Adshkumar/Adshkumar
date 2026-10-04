@@ -7,7 +7,7 @@
 <br>
 
 <p align="left">
-<code>Adarsh / README.md</code>
+<code>Adarsh Kumar (@Adshkumar)</code>
 </p>
 
 <br>
