@@ -1,9 +1,5 @@
 <div align="center">
 
-<table width="95%">
-<tr>
-<td bgcolor="#000000">
-
 <br>
 
 <p align="left">
@@ -49,7 +45,7 @@ I am continuously improving my understanding of system design, database internal
 </p>
 
 <p align="left">
-Explore my projects and development journey through my <a href="https://adshkumar.is-a.dev/">personal portfolio</a> and <a href="https://github.com/Adshkumar">GitHub profile</a>.
+Explore my projects and development journey through my <a href="https://adshkumar.is-a.dev/">portfolio</a> and <a href="https://github.com/Adshkumar">GitHub profile</a>.
 </p>
 
 <p align="left">
