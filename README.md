@@ -25,8 +25,7 @@ My primary interests include <strong>Backend Engineering, System Design, Databas
 
 <p align="left">
 I am building <a href="https://r0-ide.vercel.app/">r0</a>, an AI-powered desktop IDE designed to improve developer workflows. It supports AI-assisted development and GitHub Commit &amp; Push directly through the editor interface or terminal.
-</p>>
-
+</p>
 <p align="left">
 I created <a href="https://tsdn.vercel.app/">The System Design Newspaper</a>, an engineering-focused platform that brings relevant technical stories and developments together with context, helping developers stay informed about software engineering and system design.
 </p>
