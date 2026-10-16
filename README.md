@@ -24,7 +24,7 @@ My primary interests include <strong>Backend Engineering, System Design, Databas
 </p>
 
 <p align="left">
-I am building <a href="https://github.com/Adshkumar/r0">r0</a>, an AI-powered desktop IDE designed to improve developer workflows. It supports AI-assisted development and GitHub Commit &amp; Push directly through the editor interface or terminal.
+I am building <a href="r0-ide.vercel.app">r0</a>, an AI-powered desktop IDE designed to improve developer workflows. It supports AI-assisted development and GitHub Commit &amp; Push directly through the editor interface or terminal.
 </p>
 
 <p align="left">
