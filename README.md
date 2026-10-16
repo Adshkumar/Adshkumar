@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <table width="95%">
 <tr>
@@ -6,90 +6,194 @@
 
 <br>
 
-<p align="left">
-<code>Adarsh Kumar (@Adshkumar)</code>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Adarsh+Kumar+%7C+Software+Engineer;Building+Systems%2C+Tools%2C+and+Developer+Products;Backend+Engineering+%7C+System+Design+%7C+AI" alt="Typing SVG">
 </p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adarsh-kumar62041/">
-  <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://x.com/Adshkumar62">
-  <img src="https://img.shields.io/badge/X-%40Adshkumar62-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-&nbsp;
-<a href="mailto:adarsh99733207@gmail.com">
-  <img src="https://img.shields.io/badge/Email-adarsh99733207%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p align="center">
+  <a href="https://github.com/Adshkumar">
+    <img src="https://img.shields.io/badge/GitHub-Adshkumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/adarsh-kumar62041/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Adshkumar62">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:adarsh99733207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<br>
-
-<p align="left">
-I am a software engineer focused on building resilient backend architectures, high-concurrency real-time pipelines, and scalable web applications. My daily stack revolves around <strong>Node.js, Express, Socket.IO, MongoDB</strong>, and modern <strong>JavaScript, TypeScript, and React</strong>.
+<p align="center">
+  <a href="https://adsingh-portfolio.vercel.app/home">Portfolio</a> •
+  <a href="https://github.com/Adshkumar?tab=repositories">Repositories</a> •
+  <a href="https://tsdn.vercel.app/">The System Design Newspaper</a> •
+  <a href="https://github.com/Adshkumar/r0">r0 IDE</a>
 </p>
-
-<p align="left">
-I enjoy going beyond simply building features and spend my time understanding how systems behave under real-world constraints. My interests include <strong>System Design, Distributed Systems, Database Internals, Backend Architecture, Real-Time Systems, Caching, API Design, Scalability, and Cloud Infrastructure</strong>.
-</p>
-
-<p align="left">
-Committed to first-principles systems thinking and distributed architecture, I spend my time exploring concepts such as <strong>Raft, Paxos, distributed write-ahead logs, LSM-trees, idempotency, cache invalidation, concurrency, consistency, replication, and fault tolerance</strong>. I am particularly interested in understanding the engineering trade-offs behind production systems rather than treating technologies as black boxes.
-</p>
-
-<p align="left">
-I have built an <a href="https://adarsh-interviewai.vercel.app/">AI Interview Preparation Platform</a>, an AI-powered application designed to simplify interview preparation through intelligent interview generation, resume analysis, automated reporting, and secure authentication. The platform combines <strong>React, Node.js, Express, MongoDB, JWT, AI APIs, MVC architecture, and Puppeteer</strong> to create an end-to-end interview preparation workflow.
-</p>
-
-<p align="left">
-I also built an <a href="https://uber-psi-three.vercel.app/">Uber Backend System</a>, focusing on the backend architecture behind a ride-hailing workflow. It includes authentication, user and captain modules, ride requests, driver assignment, OTP-based ride verification, payment integration, and real-time communication using <strong>Socket.IO</strong>. The project gave me practical experience with asynchronous workflows, real-time events, state management, and backend service design.
-</p>
-
-<p align="left">
-Another project I built is a <a href="https://chat-application-sable-rho.vercel.app/">Real-Time Chat Application</a>, designed around persistent WebSocket communication and real-time user interactions. It includes authentication, online presence, typing indicators, protected routes, API rate limiting, and a structured MVC backend using <strong>Node.js, Express, MongoDB, React, and Socket.IO</strong>.
-</p>
-
-<p align="left">
-I am also building <a href="https://adsingh-portfolio.vercel.app/">Finance</a>, a production-style personal finance application focused on transaction management, multiple accounts, budgets, analytics, notifications, and financial insights. It also explores AI-powered workflows including receipt scanning, voice-based expense logging, and an AI finance assistant while maintaining authentication, security, and structured financial data management.
-</p>
-
-<p align="left">
-Across these projects, I have worked with <strong>REST APIs, authentication and authorization, real-time communication, database modeling, API security, rate limiting, AI integrations, responsive interfaces, asynchronous workflows, and scalable backend architectures</strong>.
-</p>
-
-<p align="left">
-My backend work is primarily centered around <strong>Node.js and Express</strong>, while <strong>MongoDB</strong> is my primary database technology. On the frontend, I work with <strong>React, JavaScript, TypeScript, Tailwind CSS, and Vite</strong>. I also use tools such as <strong>Git, GitHub, Postman, VS Code, npm, and Vercel</strong> throughout the development process.
-</p>
-
-<p align="left">
-I am currently deepening my hands-on knowledge in <strong>System Design, Docker, Kubernetes, AWS, Distributed Systems, and Database Engineering</strong>. I am particularly interested in how systems scale horizontally, how databases handle large workloads, how distributed services communicate reliably, and how production systems recover from failures.
-</p>
-
-<p align="left">
-My current learning also involves understanding <strong>load balancing, caching strategies, database indexing, replication, sharding, message queues, transactions, consistency models, fault tolerance, observability, and event-driven architectures</strong>.
-</p>
-
-<p align="left">
-Alongside engineering projects, I continuously practice <strong>Data Structures &amp; Algorithms</strong> and problem solving on <a href="https://leetcode.com/">LeetCode</a>. I use these problems to strengthen my understanding of algorithms, complexity, data structures, and the fundamentals required to reason about efficient software.
-</p>
-
-<p align="left">
-I also document my projects, experiments, and engineering journey through my <a href="https://adsingh-portfolio.vercel.app/">portfolio</a>, where I showcase the applications I build and the technologies I work with.
-</p>
-
-<p align="left">
-My goal is to keep moving from building applications that simply work toward designing systems that are <strong>reliable, maintainable, observable, secure, and scalable</strong> as their complexity and traffic grow.
-</p>
-
-<p align="left">
-I believe good software is not only about making something work. It is about understanding <strong>why it works, how it behaves under load, where it can fail, and how it can evolve</strong> as the system grows.
-</p>
-
-<br>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
+
+## About Me
+
+I'm Adarsh Kumar, a software developer interested in building useful software products, reliable backend systems, and developer tools. I work primarily with **JavaScript, TypeScript, Node.js, Express, React, and MongoDB**, while continuously exploring system design, database engineering, distributed systems, and AI-powered applications.
+
+I enjoy understanding how software works beyond the interface: how requests flow through a backend, how data is stored and retrieved, how concurrent operations behave, and how applications can remain reliable as their complexity grows.
+
+My work spans full-stack applications, real-time systems, AI integrations, desktop development, and engineering-focused content platforms. I learn by building, debugging, studying architectural trade-offs, and turning ideas into working products.
+
+## Featured Projects
+
+### 1. r0 — AI-Powered Desktop IDE
+
+**An AI-first code editor built for developers.**
+
+<a href="https://github.com/Adshkumar/r0">
+  <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github" alt="Source Code">
+</a>
+<a href="https://github.com/Adshkumar/r0/releases/latest/download/r0-latest-setup.exe">
+  <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=flat-square&logo=windows" alt="Download for Windows">
+</a>
+
+I'm building **r0**, an AI-powered desktop IDE using React, TypeScript, Rust, and Tauri. The goal is to bring AI-assisted development and essential coding tools together in a fast, desktop-first environment.
+
+- Code editing, AI-assisted development, and integrated terminal.
+- GitHub Commit & Push directly through the editor interface or terminal.
+- Development workflows designed around local execution and developer control.
+- Bring-your-own API keys, with an emphasis on privacy and avoiding vendor lock-in.
+
+**Tech:** React, TypeScript, Rust, Tauri, Git, GitHub, AI APIs.
+
+### 2. The System Design Newspaper
+
+**Engineering news with context, not just headlines.**
+
+<a href="https://tsdn.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Website-Visit-FFFFFF?style=flat-square&logo=vercel&logoColor=black" alt="Visit Website">
+</a>
+
+I'm building an engineering-focused publication that helps developers follow important technical developments without spending hours browsing multiple sources.
+
+The platform focuses on relevant engineering stories, technical context, and developments across software infrastructure, databases, distributed systems, and system design.
+
+**Focus:** Engineering research, technical news, developer learning, and information discovery.
+
+### 3. Finance Tracker
+
+**A personal finance application for tracking and understanding money.**
+
+<a href="https://github.com/Adshkumar/React-Native-Finance-App/releases/latest">
+  <img src="https://img.shields.io/badge/GitHub-Releases-181717?style=flat-square&logo=github" alt="Finance Tracker Releases">
+</a>
+
+I'm developing a mobile finance application with features for managing transactions, multiple accounts, budgets, analytics, and financial insights.
+
+The project explores mobile application architecture, authentication, persistent data, application state, and practical finance workflows. Additional AI-assisted ideas include receipt scanning, voice-based expense logging, and a finance assistant.
+
+**Tech:** React Native, Expo, TypeScript, Supabase, Clerk, Zustand.
+
+### 4. AI Interview Preparation Platform
+
+<a href="https://adarsh-interviewai.vercel.app/">Live Application</a>
+
+An AI-powered application designed to support interview preparation through interview generation, resume analysis, and automated reporting.
+
+**Tech:** React, Node.js, Express, MongoDB, JWT, AI APIs, Puppeteer.
+
+### 5. Uber Backend System
+
+<a href="https://uber-psi-three.vercel.app/">Project</a>
+
+A ride-hailing backend project exploring the core workflows behind a ride-booking platform, including authentication, rider and captain modules, ride requests, driver assignment, OTP-based verification, payment integration, and real-time events.
+
+**Tech:** Node.js, Express, MongoDB, Socket.IO, REST APIs.
+
+### 6. Real-Time Chat Application
+
+<a href="https://chat-application-sable-rho.vercel.app/">Live Application</a>
+
+A real-time messaging application built around persistent WebSocket communication and responsive user interactions.
+
+Features include authentication, online presence, typing indicators, protected routes, API rate limiting, and structured backend modules.
+
+**Tech:** React, Node.js, Express, MongoDB, Socket.IO.
+
+### Explore More
+
+Find additional experiments, applications, and source code on my <a href="https://github.com/Adshkumar?tab=repositories">GitHub repositories</a> and <a href="https://adsingh-portfolio.vercel.app/home">personal portfolio</a>.
+
+---
+
+## Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,tailwind,vite,mongodb,supabase,git,github,docker,rust,tauri,linux&perline=8" alt="Technical Skills">
+</p>
+
+| Area | Technologies and Interests |
+|---|---|
+| Languages | JavaScript, TypeScript, Rust |
+| Backend | Node.js, Express, REST APIs, authentication, authorization |
+| Frontend | React, React Native, Tailwind CSS, Vite |
+| Databases | MongoDB, Supabase, data modeling, indexing, transactions |
+| Real-time Systems | Socket.IO, WebSockets, event-driven workflows |
+| AI Development | AI API integration, AI-assisted coding, interview workflows |
+| Desktop Development | Tauri, Rust, React, TypeScript |
+| Developer Tools | Git, GitHub, Postman, npm, VS Code |
+| Infrastructure | Docker, AWS, Kubernetes — ongoing learning |
+
+## Engineering Interests
+
+I'm particularly interested in the concepts that shape reliable and scalable software:
+
+- **System Design:** scalability, load balancing, caching, API design, and service boundaries.
+- **Distributed Systems:** replication, consistency, consensus algorithms, fault tolerance, and coordination.
+- **Database Engineering:** indexing, query execution, write-ahead logs, LSM-trees, transactions, and storage engines.
+- **Backend Architecture:** authentication, idempotency, concurrency, rate limiting, and asynchronous processing.
+- **Real-Time Systems:** WebSockets, event-driven architectures, message delivery, and connection management.
+- **Infrastructure:** containerization, cloud deployment, observability, and production debugging.
+
+I want to understand the reasoning behind architectural decisions, the trade-offs they introduce, and the failure modes they must handle.
+
+## Current Learning
+
+I'm deepening my practical knowledge of system design, database internals, distributed systems, Docker, Kubernetes, and AWS. Alongside project development, I practice Data Structures & Algorithms on <a href="https://leetcode.com/">LeetCode</a> to strengthen problem-solving skills and computational fundamentals.
+
+My approach is to connect theory with implementation: study a concept, build a small system around it, investigate its limitations, and understand when the design is appropriate.
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adshkumar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adshkumar&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adshkumar&theme=transparent&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+## My Engineering Philosophy
+
+I believe building software is about more than making features work. It's about understanding why they work, how they behave under load, where they can fail, and how they should evolve as requirements change.
+
+I want to keep progressing from building applications to designing systems that are **reliable, maintainable, secure, observable, and scalable**.
+
+**Build products. Understand systems. Keep learning.**
+
+<p align="center">
+  <a href="https://adsingh-portfolio.vercel.app/home">Portfolio</a> •
+  <a href="https://github.com/Adshkumar">GitHub</a> •
+  <a href="https://x.com/Adshkumar62">X</a> •
+  <a href="https://www.linkedin.com/in/adarsh-kumar62041/">LinkedIn</a>
+</p>
