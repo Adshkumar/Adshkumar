@@ -1,10 +1,8 @@
 <div align="center">
 
-<br>
-
 <table>
 <tr>
-<td style="border: 1px solid #3b414b; border-radius: 8px; padding: 28px; background-color: #0d1117;">
+<td width="100%" style="border: 1px solid #3d444d; padding: 20px 28px; border-radius: 7px;">
 
 <p align="left">
 <code>Adarsh Kumar (@Adshkumar)</code>
@@ -55,8 +53,6 @@ Explore my projects and development journey through my <a href="https://adshkuma
 <p align="left">
 My goal is to build software that is reliable, maintainable, secure, and scalable, while understanding the engineering principles behind the systems I create.
 </p>
-
-<br>
 
 </td>
 </tr>
