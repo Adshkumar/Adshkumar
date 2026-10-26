@@ -2,7 +2,7 @@
 <div style="border: 1px solid #30363d; border-radius: 8px; padding: 24px 28px;">
 
 <p align="left">
-<code>Adarsh Kumar (@Adshkumar)</code>
+<code>@Adshkumar (Adarsh Kumar)</code>
 </p>
 
 <p align="left">
