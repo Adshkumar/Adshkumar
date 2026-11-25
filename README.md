@@ -27,10 +27,6 @@ My primary interests include <strong>Backend Engineering, System Design, Databas
 I am building <a href="https://r0-ide.vercel.app/">r0</a>, an AI-powered desktop IDE designed to improve developer workflows. It supports AI-assisted development and GitHub Commit &amp; Push directly through the editor interface or terminal.
 </p>
 <p align="left">
-I created <a href="https://tsdn.vercel.app/">The System Design Newspaper</a>, an engineering-focused platform that brings relevant technical stories and developments together with context, helping developers stay informed about software engineering and system design.
-</p>
-
-<p align="left">
 I also built a <a href="https://github.com/Adshkumar/React-Native-Finance-App">Finance Tracker</a> focused on transaction management, budgeting, account management, and financial insights, along with an <a href="https://adarsh-interviewai.vercel.app/">AI Interview Preparation Platform</a> designed to assist with interview preparation and resume analysis.
 </p>
 
